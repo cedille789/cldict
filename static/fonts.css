@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Sapota";
+  src: local("Sapota"), local("Sapota1"),
+    url("https://raw.githubusercontent.com/zeli-b/sat/master/%ED%86%B5%ED%95%A9%ED%8F%B0%ED%8A%B8/sapota/Sapota1.woff")
+      format("woff"),
+    url("https://raw.githubusercontent.com/zeli-b/sat/master/%ED%86%B5%ED%95%A9%ED%8F%B0%ED%8A%B8/sapota/Sapota1.otf")
+      format("opentype");
+}
+
+@font-face {
+  font-family: "Source Han Sans KR";
+  src: local("Source Han Sans KR"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/WOFF2/OTF/SourceHanSansK-VF.otf.woff2")
+      format("woff2"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/OTF/SourceHanSansK-VF.otf")
+      format("opentype");
+}
+
+@font-face {
+  font-family: "Source Han Sans JP";
+  src: local("Source Han Sans JP"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/WOFF2/OTF/SourceHanSans-VF.otf.woff2")
+      format("woff2"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/OTF/SourceHanSans-VF.otf")
+      format("opentype");
+}
+
+@font-face {
+  font-family: "Source Han Sans TC";
+  src: local("Source Han Sans TC"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/WOFF2/OTF/SourceHanSansTC-VF.otf.woff2")
+      format("woff2"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/OTF/SourceHanSansTC-VF.otf")
+      format("opentype");
+}
+
+@font-face {
+  font-family: "Source Han Sans HK";
+  src: local("Source Han Sans HK"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/WOFF2/OTF/SourceHanSansHC-VF.otf.woff2")
+      format("woff2"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/OTF/SourceHanSansHC-VF.otf")
+      format("opentype");
+}
+
+@font-face {
+  font-family: "Source Han Sans SC";
+  src: local("Source Han Sans SC"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/WOFF2/OTF/SourceHanSansSC-VF.otf.woff2")
+      format("woff2"),
+    url("https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/Variable/OTF/SourceHanSansSC-VF.otf")
+      format("opentype");
+}

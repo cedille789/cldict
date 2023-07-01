@@ -1,0 +1,3 @@
+# CLDict
+
+ConLang DICTionary
